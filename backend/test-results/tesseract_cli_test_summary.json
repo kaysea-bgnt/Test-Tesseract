@@ -1,0 +1,46 @@
+{
+  "timestamp": "2025-08-20T08:27:29.378Z",
+  "testImage": "mercury1.jpg",
+  "results": [
+    {
+      "type": "Original (No Enhancement)",
+      "success": true,
+      "textLength": 668,
+      "confidenceScore": 90,
+      "error": null,
+      "imagePath": "C:\\PGX\\NGR\\Test-Tesseract\\backend\\receipts\\mercury1.jpg"
+    },
+    {
+      "type": "Sharp Minimal",
+      "success": true,
+      "textLength": 634,
+      "confidenceScore": 70,
+      "error": null,
+      "imagePath": "C:\\PGX\\NGR\\Test-Tesseract\\backend\\test-results\\enhanced\\sharp_minimal.jpg"
+    },
+    {
+      "type": "Sharp Enhanced",
+      "success": true,
+      "textLength": 675,
+      "confidenceScore": 70,
+      "error": null,
+      "imagePath": "C:\\PGX\\NGR\\Test-Tesseract\\backend\\test-results\\enhanced\\sharp_enhanced.jpg"
+    },
+    {
+      "type": "Sharp Advanced Enhanced",
+      "success": true,
+      "textLength": 721,
+      "confidenceScore": 70,
+      "error": null,
+      "imagePath": "C:\\PGX\\NGR\\Test-Tesseract\\backend\\test-results\\enhanced\\sharp_advanced_enhanced.jpg"
+    },
+    {
+      "type": "Sharp High Contrast",
+      "success": true,
+      "textLength": 496,
+      "confidenceScore": 68,
+      "error": null,
+      "imagePath": "C:\\PGX\\NGR\\Test-Tesseract\\backend\\test-results\\enhanced\\sharp_high_contrast.jpg"
+    }
+  ]
+}
